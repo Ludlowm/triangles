@@ -1,5 +1,6 @@
 require('rspec')
 require('triangles')
+require('pry')
 
 describe(Triangle) do
   describe("#triangle") do
